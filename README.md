@@ -1,14 +1,8 @@
 # signeDelZodiac_i_signeDelHoroscopXines
-Un programa que permeti consultar el signe del zodíac  o el signe de l'horòscop xinés.
+# Un programa que permeti consultar el signe del zodíac  o el signe de l'horòscop xinés.
 
-CFGS Administració de Sistemes Informàtics
-CFGS Desenvolupament d'Aplicacions Multiplataforma
-CFGS Desenvolupament d'Aplicacions Web
-Mòdul 3 – Programació bàsica
-UF2 – Programació modular
-Exercicis de repàs amb solucions 
-
-Us presentem un exercici extra per practicar la implementació d'una aplicació sencera de forma similar a la calculadora d'àrees. Trobareu la solució al final del document.
+# CFGS Desenvolupament d'Aplicacions Multiplataforma Mòdul 3 – Programació bàsica UF2 – Programació modular
+#                                      Exercicis de repàs
 
 EXERCICI
 
