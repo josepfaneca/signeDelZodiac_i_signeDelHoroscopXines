@@ -1,4 +1,6 @@
-
+/**
+ * Created by Josep Faneca on 25-02-2018.
+ */
 import java.util.Scanner;
 
 public class horoscop {
